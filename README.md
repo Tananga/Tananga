@@ -1,5 +1,5 @@
-<h1 align="center">Hello :)  You can find me here <a href="https://www.tananga.com/" 
-           target="_blank">tananga.com 
+<h1 align="center"> <a href="https://www.tananga.com/" 
+           target="_blank"> Hello :)  You can find me here tananga.com 
         </a></h1>
 
 <h3 align="center">My skillset:</h3>
