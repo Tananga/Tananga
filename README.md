@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,supabase,swift)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,supabase,swift,ts,postgres,git,github,githubactions,postman)](https://skillicons.dev)
 
 <!--
 **Tananga/Tananga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
