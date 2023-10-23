@@ -4,4 +4,4 @@
 
 <h3 align="center">My skillset:</h3>
 
-<h1 align="center">[![My Skills](https://skillicons.dev/icons?i=dart,flutter,supabase,swift,ts,postgres,github,githubactions,postman&perline=3)](https://skillicons.dev)</h1>
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,supabase,swift,ts,postgres,github,githubactions,postman)](https://skillicons.dev)
