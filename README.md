@@ -6,5 +6,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,supabase,swift,ts,postgres,github,githubactions,postman)](https://skillicons.dev)
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5f6597b4-ff7c-4415-9272-d95759df842f" width="400">
-<br><br>
+![programming](https://github.com/Tananga/Tananga/assets/44244477/39fd7eaa-df08-4208-b81b-74503f01113a)
