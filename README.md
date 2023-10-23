@@ -6,4 +6,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,supabase,swift,ts,postgres,github,githubactions,postman)](https://skillicons.dev)
 
-![](https://cdn.confluent.io/wp-content/uploads/the-it-crowd-moss-fire.gif)
+![Alt text](https://cdn.confluent.io/wp-content/uploads/the-it-crowd-moss-fire.gif)
