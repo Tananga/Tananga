@@ -1,5 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hello :)  You can find me here: https://www.tananga.com </h1>
 
+<h3 align="center">My skillset:</h3>
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,supabase,swift,ts,postgres,git,github,githubactions,postman)](https://skillicons.dev)
 
 <!--
