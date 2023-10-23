@@ -1,4 +1,4 @@
-<h1 align="center">Hello :)  You can find me here: <a href="https://www.tananga.com/" 
+<h1 align="center">Hello :)  You can find me here <a href="https://www.tananga.com/" 
            target="_blank">tananga.com 
         </a></h1>
 
