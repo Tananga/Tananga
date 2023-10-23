@@ -1,4 +1,4 @@
-<h1 align="center">Hello :)  You can find me here: https://www.tananga.com </h1>
+<h1 align="center">Hello :)  You can find me here:</h1>
 
 <h3 align="center">My skillset:</h3>
 
