@@ -1,4 +1,4 @@
-![MasterHead](https://res.cloudinary.com/dsxbnby76/image/upload/v1682337442/flutter_d9bc7de1f4_94d99c8220.png)
+<!-- ![MasterHead](https://res.cloudinary.com/dsxbnby76/image/upload/v1682337442/flutter_d9bc7de1f4_94d99c8220.png) -->
 <h1 align="center">Hi 👋, I'm Kamil</h1>
 
 <h3 align="center">My skillset:</h3>
