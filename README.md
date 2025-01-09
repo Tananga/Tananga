@@ -5,4 +5,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,supabase,firebase,appwrite,ts,postgres,js,deno,github,githubactions,docker,postman)](https://skillicons.dev)
 
-<p><a href="https://community.vaunt.dev/board/Tananga/achievements"><img src="https://api.vaunt.dev/v1/github/entities/Tananga/achievements/9fc50df5-1830-4e10-afcf-db4006ae5210?format=svg&style=raw" width="300"/></a></p>
+<!-- <p><a href="https://community.vaunt.dev/board/Tananga/achievements"><img src="https://api.vaunt.dev/v1/github/entities/Tananga/achievements/9fc50df5-1830-4e10-afcf-db4006ae5210?format=svg&style=raw" width="300"/></a></p> -->
