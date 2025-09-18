@@ -5,6 +5,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,go,docker,kubernetes,linux,postgres,github,githubactions,postman)](https://skillicons.dev)
 
-<img src="https://www.media1.tenor.com/m/PRN-EHOCuHwAAAAC/the-it-crowd-moss-the-it-crowd.gif" width="100%" />
+![programming](https://github.com/Tananga/Tananga/assets/44244477/39fd7eaa-df08-4208-b81b-74503f01113a)
 
 
