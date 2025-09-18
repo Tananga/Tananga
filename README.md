@@ -5,5 +5,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,go,docker,kubernetes,linux,postgres,github,githubactions,postman)](https://skillicons.dev)
 
-
-<p><a href="https://community.vaunt.dev/board/Tananga/achievements"><img src="https://api.vaunt.dev/v1/github/entities/Tananga/achievements/9fc50df5-1830-4e10-afcf-db4006ae5210?format=svg&style=raw" width="300"/></a></p>
+![Fire]([https://media.giphy.com/media/your-gif-link.gif](https://media1.tenor.com/m/PRN-EHOCuHwAAAAC/the-it-crowd-moss-the-it-crowd.gif))
