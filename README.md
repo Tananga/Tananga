@@ -5,4 +5,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,go,docker,kubernetes,linux,postgres,github,githubactions,postman)](https://skillicons.dev)
 
-![Fire]([https://media.giphy.com/media/your-gif-link.gif](https://media1.tenor.com/m/PRN-EHOCuHwAAAAC/the-it-crowd-moss-the-it-crowd.gif))
+<img src="[https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif](https://media.giphy.com/media/your-gif-link.gif](https://media1.tenor.com/m/PRN-EHOCuHwAAAAC/the-it-crowd-moss-the-it-crowd.gif)" width="1920" />
+
