@@ -3,7 +3,7 @@
 
 <h3 align="center">My skillset:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,go,rust,docker,kubernetes,prometheus,grafana,kafka,rabbitmq,terraform,ansible,linux,postgres,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,go,ts,docker,kubernetes,prometheus,grafana,kafka,rabbitmq,terraform,ansible,linux,postgres,githubactions)](https://skillicons.dev)
 
 ![programming](https://github.com/Tananga/Tananga/assets/44244477/39fd7eaa-df08-4208-b81b-74503f01113a)
 
